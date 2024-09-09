@@ -4,3 +4,5 @@ This is just a portfolio website which contains all the weekly tasks that I have
 https://sites.google.com/ds.study.iitm.ac.in/subhadeeprakshit5?usp=sharing
 
 All the files used in the portfolio will be available soon.
+
+UPDATE: All the documents, sheets and websites are accessible from the portfolio website.
