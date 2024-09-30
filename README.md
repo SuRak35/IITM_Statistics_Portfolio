@@ -6,3 +6,7 @@ https://sites.google.com/ds.study.iitm.ac.in/subhadeeprakshit5?usp=sharing
 All the files used in the portfolio will be available soon.
 
 UPDATE: All the documents, sheets and websites are accessible from the portfolio website.
+
+<p align="center">
+  <img src="https://media.tenor.com/AyTv-0lbeO0AAAAj/check-mark-good.gif" >
+</p>
